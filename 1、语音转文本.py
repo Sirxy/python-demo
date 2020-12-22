@@ -20,3 +20,4 @@ except Exception as e:
 '''
 missing PocketSphinx language data directory: "D:\Python 3.7.3\lib\site-packages\speech_recognition\pocketsphinx-data\zh_CN"
 '''
+# https://github.com/Uberi/speech_recognition/blob/master/reference/pocketsphinx.rst
